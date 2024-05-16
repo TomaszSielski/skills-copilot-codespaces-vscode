@@ -6,4 +6,5 @@ function skillMembers() {
     };
     members.push(member);
     console.log(members);
+
 }
